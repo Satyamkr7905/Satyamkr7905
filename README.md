@@ -1,21 +1,195 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building strong core subject fundamentals like ( OS , DBMS , CN... ) , improving my Python skills, and contributing to open-source projects.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Python, data structures & algorithms, backend development, data science, and AI/ML beginner-friendly projects.<br><br>🤝 I’m looking for help with<br>Understanding core CS concepts , writing clean and scalable code, and getting better at real-world software development practices.<br><br>🌱 I’m currently learning<br>Python (core + advanced concepts),  CS subjects like ( OS , DBMS , CN... ) , and exploring Data Science & Artificial Intelligence.<br><br>💬 Ask me about<br>Python basics, Sem Exam strategies, open-source contributions, and getting started as a software developer.<br><br>⚡ Fun fact<br>I enjoy breaking down complex concepts into simple ideas and learning by building and contributing 🚀
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Satyamkr7905&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Satyamkr7905&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkr7905&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14213D,100:0077B6&height=220&section=header&text=Satyam%20Kumar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Development%20%7C%20Problem%20Solving%20%7C%20AI&descAlignY=60&descSize=18" width="100%" alt="Profile banner"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satyamkr7905&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+Backend+Developer+in+Progress;Building+with+FastAPI+%26+Flask;Learning+DSA+with+Java;Exploring+AI+%26+Machine+Learning;Always+Learning.+Always+Building." alt="Typing animation"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Satyamkr7905&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://linkedin.com/in/satyam7905"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Satyamkr7905/"><img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://neetcode.io/user/AtomicCreeper588"><img src="https://img.shields.io/badge/NeetCode-My_Journey-111111?style=for-the-badge" alt="NeetCode"/></a>
+<a href="mailto:satyamkumar9250@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## 👋 About Me
+
+Hey! I'm **Satyam Kumar**, a Computer Science undergraduate at **Sapthagiri NPS University, Bengaluru**, passionate about backend engineering, problem-solving, and building practical software.
+
+🎓 **Education:** B.E. in Computer Science & Engineering | Expected 2028  
+📚 **Academic Performance:** 9.1/10 CGPA  
+⚙️ **Primary Focus:** Python Backend Development  
+🧠 **Problem Solving:** Java, Data Structures & Algorithms  
+🤖 **Exploring:** AI-powered applications and machine learning  
+🎯 **Goal:** Become a strong backend engineer and build reliable, scalable systems.
+
+I enjoy understanding how systems work behind the scenes — from API design and database operations to authentication, application architecture, and deployment.
+
+---
+
+## 🧰 My Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Programming languages"/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask" alt="Backend technologies"/>
+
+<img src="https://img.shields.io/badge/REST%20API-Engineering-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-Integration-2563EB?style=flat-square"/>
+
+### 🗄️ Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase" alt="Databases"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-Database%20Toolkit-D71F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/MinIO-Object%20Storage-C72E49?style=flat-square"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend technologies"/>
+
+### ☁️ Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,vercel" alt="Developer tools"/>
+
+### 🤖 AI & Intelligent Applications
+
+<img src="https://img.shields.io/badge/Google%20Gemini-AI%20Integration-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq-LLM%20Integration-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Application%20Development-2563EB?style=flat-square"/>
+
+</div>
+
+---
+
+## 🧠 My Coding Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Satyamkr7905/">
+<img src="https://img.shields.io/badge/LeetCode-Consistency%20%26%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://neetcode.io/user/AtomicCreeper588">
+<img src="https://img.shields.io/badge/NeetCode-Structured%20DSA%20Practice-181818?style=for-the-badge" alt="NeetCode"/>
+</a>
+
+</div>
+
+I use coding platforms to strengthen my algorithmic thinking and build consistency in problem-solving.
+
+- 🔹 **LeetCode:** Practising algorithmic problems and improving implementation skills.
+- 🔹 **NeetCode:** Following structured DSA practice and learning common problem-solving patterns.
+- 🔹 **Primary DSA language:** Java.
+- 🔹 **Current focus:** Arrays, strings, hashing, binary search, linked lists, trees, graphs, and dynamic programming.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Satyamkr7905/">
+<img src="https://leetcard.jacoblin.cool/Satyamkr7905?theme=dark&font=Baloo&ext=heatmap" width="500" alt="LeetCode statistics card"/>
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satyamkr7905&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkr7905&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Most-used programming languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Satyamkr7905&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamkr7905&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Improving
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+- REST API design and implementation
+- Authentication and authorization
+- SQL and relational database design
+- API validation and error handling
+- Docker and deployment workflows
+- Writing maintainable backend code
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Problem Solving
+
+- Java-based DSA practice
+- Pattern recognition and optimization
+- Time and space complexity
+- Structured coding interview preparation
+- Consistent practice through LeetCode and NeetCode
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+**Sapthagiri NPS University, Bengaluru**
+
+- Bachelor of Engineering — Computer Science & Engineering
+- Expected Graduation: 2028
+- CGPA: **9.1/10**
+
+**Certifications**
+- Programming Using Java — Infosys Springboard
+- Python Automation — Infosys Springboard
+- Database Management System
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, exchange ideas, learn new technologies, and collaborate on meaningful software.
+
+<div align="center">
+
+<a href="https://github.com/Satyamkr7905"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/satyam7905"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:satyamkumar9250@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Satyamkr7905&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+### 💡 Build. Learn. Solve. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:14213D,100:0D1117&height=120&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
